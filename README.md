@@ -66,6 +66,8 @@ for i in f.readlines():
 
 ```
 
+解出答案 `hey!IloveU!`
+
 如果不会写 `Python` 也可以通过 [在线 Base64](https://base64.us/) 来手动解码
 
 ## 0x04
