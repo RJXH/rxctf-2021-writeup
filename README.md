@@ -128,6 +128,8 @@ JPG 文件尾[[1]](#file)后面还有文件
 
 通过 `NotePad++` 加插件 `HEX-Editor` 可打开查看 `hex`
 
+![](https://raw.githubusercontent.com/RJXH/pictures/main/rxctf2021/0x08.00.png)
+
 ```
 [0][3]
 [24][3]
@@ -144,10 +146,12 @@ JPG 文件尾[[1]](#file)后面还有文件
 
 此段数据出现明显异常，怀疑后面加入了二进制
 
-![](https://raw.githubusercontent.com/RJXH/pictures/main/rxctf2021/0x09.01.png)
+![](https://raw.githubusercontent.com/RJXH/pictures/main/rxctf2021/0x08.01.png)
 
 按行转 `10` 进制得 `48` `81` `54` `97` 最后通过 `ASCII` 表得出答案
 `NQ6a`
+
+![](https://raw.githubusercontent.com/RJXH/pictures/main/rxctf2021/0x09.00.png)
 
 #### <span id="file">附：常见的文件头和尾</span>
 
