@@ -138,8 +138,6 @@ JPG 文件尾[[1]](#file)后面还有文件
 ```
 看起来像是数组，按照两位来定位数组那么 `[0][3]` 会超出长度，那么应该是按照四位
 
-![](https://raw.githubusercontent.com/RJXH/pictures/main/rxctf2021/0x08.00.png)
-
 得到答案 `828c`
 
 ## 0x09
