@@ -66,7 +66,27 @@ for i in f.readlines():
 
 ```
 
-解出答案 `hey!IloveU!`
+运行结果
+
+```
+hey!IRovKU!
+
+hey!IRovKU'
+
+hey!IRoveU!
+
+hey!IRoveU'
+
+hey!IlovKU!
+
+hey!IlovKU'
+
+hey!IloveU!
+
+hey!IloveU'
+```
+
+明显答案 `hey!IloveU!`
 
 如果不会写 `Python` 也可以通过 [在线 Base64](https://base64.us/) 来手动解码
 
